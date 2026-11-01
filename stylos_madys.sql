@@ -250,7 +250,7 @@ INSERT INTO servicio (nombre_servicio) VALUES
   ('Cepillados - Planchados'),
   ('Corte de dama y tintes'),
   ('Tratamientos capilares'),
-  ('Reporalización - Hidratación'),
+  ('Repolarización - Hidratación'),
   ('Botox capilar'),
   ('Keratina'),
   ('Diagnóstico capilar con capilógrafo'),
